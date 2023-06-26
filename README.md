@@ -46,3 +46,6 @@ skillshare-dl \
   "https://www.skillshare.com/en/classes/Motion-Graphics-with-Kurzgesagt-%E2%80%93-Part-1/631970755/projects?via=Selected-SearchSuggestion" \
   "eyJhbGciOi98y1yCho98y112Cl8Ga21dac3usImtpZCI6IldC..."
 ```
+
+If you're getting 401 errors, refresh the page and use the new access token that was
+generated.

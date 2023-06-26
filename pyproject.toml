@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "skillshare_dl"
-version = "0.0.2"
+version = "0.0.3"
 description = "A cli tool for downloading Skillshare lesson videos"
 readme = "README.md"
 requires-python = ">=3.10"
