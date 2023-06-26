@@ -1,0 +1,8 @@
+venv
+.DS_Store
+data
+.scratch
+*.egg-info
+__pycache__
+dist
+.env
